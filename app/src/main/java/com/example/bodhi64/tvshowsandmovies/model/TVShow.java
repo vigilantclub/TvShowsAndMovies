@@ -6,6 +6,7 @@ import android.os.Parcelable;
 import com.squareup.moshi.Json;
 
 public class TVShow implements Parcelable {
+    //CHECK THIS MOD AND FIX
 
     private String original_name;
     @Json(name = "poster_path")
